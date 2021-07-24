@@ -2,7 +2,7 @@
 import requests
 
 #input the city name
-city = 'thane'
+city = 'Thane'
 print(city)
 
 
